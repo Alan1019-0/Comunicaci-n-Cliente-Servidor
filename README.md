@@ -97,6 +97,7 @@ TYPING - Indicador de escritura
 Ejecutar Servidor
 
 python Servidor.py
+
 Ejecutar Cliente
 
 python Cliente.py
