@@ -1,19 +1,32 @@
 # Comunicación-Cliente-Servidor
 Entregable de la materia de Tópicos para el despliegue de aplicaciones, donde se usa un protocolo para la comunicación entre clientes a través de un servidor.
-Integrantes: 
+
+Integrantes:
+
 •	Gómez Juárez Alan Fabricio
+
 •	Luna García Erika Josabet
+
 •	Navarro Negrete María Fernanda
+
 Descripción
 Sistema de chat en tiempo real que permite comunicación grupal (broadcast) y privada entre múltiples usuarios conectados a un servidor central. Implementado en Python con interfaz gráfica tkinter y comunicación mediante sockets TCP con protocolo JSON.
 Arquitectura
+
 •	Servidor Central: Gestiona todas las conexiones y mensajes
+
 •	Clientes Múltiples: Interfaz gráfica para cada usuario
+
 •	Protocolo JSON: Comunicación estructurada y extensible
+
 •	Conexiones TCP: Comunicación confiable y en tiempo real
+
 Protocolo de Comunicación JSON
+
 Estructura Básica
+
 {"cmd": "comando", "param1": "valor1", "param2": "valor2"}
+
 •	Formato: JSON
 •	Encoding: UTF-8
 •	Transporte: TCP
