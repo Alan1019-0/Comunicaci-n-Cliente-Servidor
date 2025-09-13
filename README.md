@@ -101,21 +101,21 @@ Ejecutar Cliente
 
 python Cliente.py
 ## Funcionalidades Implementadas
-✅ Chat grupal (broadcast) en tiempo real
+- Chat grupal (broadcast) en tiempo real
 
-✅ Chat privado entre usuarios
+- Chat privado entre usuarios
 
-✅ Lista dinámica de usuarios conectados
+- Lista dinámica de usuarios conectados
 
-✅ Historial de mensajes al conectar
+- Historial de mensajes al conectar
 
-✅ Indicador "escribiendo..."
+- Indicador "escribiendo..."
 
-✅ Notificaciones de conexión/desconexión
+- Notificaciones de conexión/desconexión
 
-✅ Interfaz gráfica con pestañas
+- Interfaz gráfica con pestañas
 
-✅ Contador de mensajes no leídos
+- Contador de mensajes no leídos
 
 ## Flujo de Comunicación
 Conexión: Cliente envía login → Servidor responde con history y users.
