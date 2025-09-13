@@ -1,4 +1,4 @@
-# Cliente.py
+#Cliente.py
 import socket
 import threading
 import json
