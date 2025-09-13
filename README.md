@@ -129,4 +129,4 @@ Al ejecutar el cliente Java, se muestra una ventana para ingresar:
 - Conectarse al mismo servidor simultáneamente
 - Comunicarse entre sí sin problemas
 - Recibir la misma lista de usuarios
--Participar en chats grupales y privados de forma cruzada
+- Participar en chats grupales y privados de forma cruzada
